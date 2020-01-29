@@ -12,4 +12,4 @@ You can watch the results on Sheet3. In order to run run the simulation you have
 
 Mandelbrot
 
-This sheet generates the mandelbrot set. For each iteration, you have to change the value of A1 on the display tab to 0 and back to 1.
+This sheet generates the mandelbrot set using only pure spreadsheet logic, no VBA scripting or something whatsoever. For each iteration, you have to change the value of A1 on the display tab to 0 and back to 1. Set it to 2 to reset the sheet and when transferring it to another device/spreadsheet program, because some programs don't handle it well when the cells aren't on the default state
